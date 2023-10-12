@@ -1,5 +1,5 @@
 project:
-  name: connect-integration-dialogtech
+  name: cfn-ps-connect-integration-dialogtech
   owner: quickstart@amazon.com
   package_lambda: false
   regions:
